@@ -65,21 +65,84 @@ I'm Kushuh, a french fullstack developer from Paris. I am mainly active on GitLa
   </a>
   &nbsp;
   <img src="https://bashlogo.com/img/logo/svg/full_colored_dark.svg" alt="bash" height="50"/>
+  &nbsp;
+  <a href="https://github.com/kubernetes/kubernetes">
+    <img src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png" alt="kubernetes" width="50">
+  </a>
 </p>
 
 Go / React are my go-to for personal projects ❤️, I also use PostgreSQL for database, redis for cache and ArangoDB for logs. Former CouchDB / Couchbase - holic as well.
 
-<!--
-**kushuh/kushuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Organizations
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td>
+      <a href="https://explolab.com/">
+        <img src="https://explolab.com//wp-content/uploads/2019/09/Logo_Explolab_site_blanc.png" alt="explolab" height="100"/>
+      </a>
+    </td>
+    <td>
+      <h3>Explolab</h3>
+      <code>06/2019 - 01/2021</code>
+      <p/>
+      <p float="left">
+        <a href="https://github.com/rails/rails">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" alt="rails" height="30"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/facebook/react">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="reactjs" height="30"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/postgres/postgres">
+          <img src="https://wiki.postgresql.org/images/9/9a/PostgreSQL_logo.3colors.540x557.png" alt="postgresql" height="30"/>
+        </a>
+      </p>
+      <p/>
+      <p float="left">
+        <a href="https://github.com/php">
+          <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="php" height="30"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <a href="https://www.jobteaser.com">
+        <img src="https://upload.wikimedia.org/wikipedia/en/0/09/Logo_JobTeaser.png" alt="jobteaser" height="100"/>
+      </a>
+    </td>
+    <td>
+      <h3>JobTeaser</h3>
+      <code>05/2021 - 08/2022</code>
+      <p/>
+      <p float="left">
+        <a href="https://github.com/golang/go">
+          <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" alt="golang" height="30"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/rails/rails">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" alt="rails" height="30"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/postgres/postgres">
+          <img src="https://wiki.postgresql.org/images/9/9a/PostgreSQL_logo.3colors.540x557.png" alt="postgresql" height="30"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/redis/redis">
+          <img src="https://upload.wikimedia.org/wikipedia/fr/6/6b/Redis_Logo.svg" alt="redis" height="30"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/docker">
+          <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="docker" height="30"/>
+        </a> 
+        &nbsp;
+        <a href="https://github.com/kubernetes/kubernetes">
+          <img src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png" alt="kubernetes" width="30">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
