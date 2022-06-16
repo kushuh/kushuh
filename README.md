@@ -151,13 +151,13 @@ Go / React are my go-to for personal projects ❤️, I also use PostgreSQL for 
 
 My other medias !
 
-<p float="left">
+<p align="middle">
   <a href="https://gitlab.com/Kushuh">
     <img src="https://about.gitlab.com/images/press/logo/svg/gitlab-logo-200.svg" alt="gitlab" height="100"/>
   </a>
 </p>
 
-<p float="left">
+<p align="middle">
   <a href="https://www.linkedin.com/in/kushuh-eni/">
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="linkedin" height="50"/>
   </a>
