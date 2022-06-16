@@ -1,5 +1,7 @@
 I'm Kushuh, a french fullstack developer from Paris. I am mainly active on GitLab for personal projects, but I also follow a lot of Github repositories so here I am !
 
+(I... love icons... and stickers......)
+
 # Code Stack
 
 <p align="middle">
