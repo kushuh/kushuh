@@ -1,4 +1,71 @@
-### Hi there 👋
+I'm Kushuh, a french fullstack developer from Paris. I am mainly active on GitLab for personal projects, but I also follow a lot of Github repositories so here I am !
+
+# Code Stack
+
+<p align="middle">
+  <a href="https://github.com/golang/go">
+    <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" alt="golang" height="200"/>
+  </a>
+  <a href="https://github.com/facebook/react">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="reactjs" height="200"/>
+  </a>
+  <a href="https://github.com/postgres/postgres">
+    <img src="https://wiki.postgresql.org/images/9/9a/PostgreSQL_logo.3colors.540x557.png" alt="postgresql" height="200"/>
+  </a>
+  <a href="https://github.com/docker">
+    <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="docker" height="200"/>
+  </a>
+</p>
+
+<hr/>
+
+<p align="middle">
+  <a href="https://github.com/arangodb/arangodb">
+    <img src="https://www.arangodb.com/wp-content/uploads/2016/05/ArangoDB_logo_@1.png" alt="arango" height="50"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/redis/redis">
+    <img src="https://upload.wikimedia.org/wikipedia/fr/6/6b/Redis_Logo.svg" alt="redis" height="50"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/nodejs/node">
+    <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg" alt="node" height="50"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/denoland/deno">
+    <img src="https://deno.land/logo.svg" alt="deno" height="50"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/rails/rails">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" alt="rails" height="50"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/apache/couchdb">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Apache_CouchDB_logo.svg" alt="couchdb" height="50"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/couchbase">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Couchbase_logo.png" alt="couchbase" height="50"/>
+  </a>
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++" height="50"/>
+  &nbsp;
+  <a href="https://github.com/WebAssembly">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg" alt="web assembly" height="50"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/python">
+    <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="python" height="50"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/php">
+    <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="php" height="50"/>
+  </a>
+  &nbsp;
+  <img src="https://bashlogo.com/img/logo/svg/full_colored_dark.svg" alt="bash" height="50"/>
+</p>
+
+Go / React are my go-to for personal projects ❤️, I also use PostgreSQL for database, redis for cache and ArangoDB for logs. Former CouchDB / Couchbase - holic as well.
 
 <!--
 **kushuh/kushuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
