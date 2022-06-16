@@ -4,14 +4,17 @@ I'm Kushuh, a french fullstack developer from Paris. I am mainly active on GitLa
 
 <p align="middle">
   <a href="https://github.com/golang/go">
-    <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" alt="golang" height="200"/>
+    <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" alt="golang" height="160"/>
   </a>
   <a href="https://github.com/facebook/react">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="reactjs" height="200"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="reactjs" height="160"/>
   </a>
   <a href="https://github.com/postgres/postgres">
-    <img src="https://wiki.postgresql.org/images/9/9a/PostgreSQL_logo.3colors.540x557.png" alt="postgresql" height="200"/>
+    <img src="https://wiki.postgresql.org/images/9/9a/PostgreSQL_logo.3colors.540x557.png" alt="postgresql" height="160"/>
   </a>
+  <a href="https://github.com/docker">
+    <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="docker" height="160"/>
+  </a>  
 </p>
 
 <p align="middle">
@@ -22,10 +25,6 @@ I'm Kushuh, a french fullstack developer from Paris. I am mainly active on GitLa
   <a href="https://github.com/redis/redis">
     <img src="https://upload.wikimedia.org/wikipedia/fr/6/6b/Redis_Logo.svg" alt="redis" height="100"/>
   </a>
-  &nbsp;
-  <a href="https://github.com/docker">
-    <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="docker" height="100"/>
-  </a>  
 </p>
 
 <hr/>
