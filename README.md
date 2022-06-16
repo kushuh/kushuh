@@ -12,22 +12,23 @@ I'm Kushuh, a french fullstack developer from Paris. I am mainly active on GitLa
   <a href="https://github.com/postgres/postgres">
     <img src="https://wiki.postgresql.org/images/9/9a/PostgreSQL_logo.3colors.540x557.png" alt="postgresql" height="200"/>
   </a>
-  <a href="https://github.com/docker">
-    <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="docker" height="200"/>
+</p>
+
+<p align="middle">
+  <a href="https://github.com/arangodb/arangodb">
+    <img src="https://www.arangodb.com/wp-content/uploads/2016/05/ArangoDB_logo_@1.png" alt="arango" height="100"/>
   </a>
+  <a href="https://github.com/redis/redis">
+    <img src="https://upload.wikimedia.org/wikipedia/fr/6/6b/Redis_Logo.svg" alt="redis" height="100"/>
+  </a>
+  <a href="https://github.com/docker">
+    <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="docker" height="100"/>
+  </a>  
 </p>
 
 <hr/>
 
 <p align="middle">
-  <a href="https://github.com/arangodb/arangodb">
-    <img src="https://www.arangodb.com/wp-content/uploads/2016/05/ArangoDB_logo_@1.png" alt="arango" height="50"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/redis/redis">
-    <img src="https://upload.wikimedia.org/wikipedia/fr/6/6b/Redis_Logo.svg" alt="redis" height="50"/>
-  </a>
-  &nbsp;
   <a href="https://github.com/nodejs/node">
     <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg" alt="node" height="50"/>
   </a>
