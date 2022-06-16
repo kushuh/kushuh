@@ -157,6 +157,8 @@ My other medias !
   </a>
 </p>
 
+<hr/>
+
 <p align="middle">
   <a href="https://www.linkedin.com/in/kushuh-eni/">
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="linkedin" height="50"/>
@@ -166,5 +168,13 @@ My other medias !
   &nbsp;
   <a href="https://stackoverflow.com/users/9021186/kushuh">
     <img src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" alt="stackoverflow" height="50"/>
+  </a>
+</p>
+
+<p/>
+
+<p align="middle">
+  <a href="https://myanimelist.net/profile/Kushuh">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/MyAnimeList.png" alt="myanimelist" height="30"/>
   </a>
 </p>
