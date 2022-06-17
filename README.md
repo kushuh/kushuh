@@ -154,8 +154,8 @@ Go / React are my go-to for personal projects ❤️, I also use PostgreSQL for 
 <table>
   <tr>
     <td>
-      <a href="https://explolab.com/">
-        <img src="https://explolab.com//wp-content/uploads/2019/09/Logo_Explolab_site_blanc.png" alt="explolab" height="100"/>
+      <a href="https://www.agoradesecrivains.fr/">
+        <img src="./agora%20logo%20text%20circle.png?raw=true" alt="explolab" height="100"/>
       </a>
     </td>
     <td>
