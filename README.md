@@ -149,6 +149,54 @@ Go / React are my go-to for personal projects ❤️, I also use PostgreSQL for 
   </tr>
 </table>
 
+# Private projects
+
+<table>
+  <tr>
+    <td>
+      <a href="https://explolab.com/">
+        <img src="https://explolab.com//wp-content/uploads/2019/09/Logo_Explolab_site_blanc.png" alt="explolab" height="100"/>
+      </a>
+    </td>
+    <td>
+      <h3>Agora des Écrivains</h3>
+      <code>since 09/2019</code>
+      <p/>
+      <p float="left">
+        <a href="https://github.com/golang/go">
+          <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" alt="golang" height="30"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/facebook/react">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="reactjs" height="30"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/postgres/postgres">
+          <img src="https://wiki.postgresql.org/images/9/9a/PostgreSQL_logo.3colors.540x557.png" alt="postgresql" height="30"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/docker">
+          <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="docker" height="30"/>
+        </a>  
+        &nbsp;
+        <a href="https://github.com/arangodb/arangodb">
+          <img src="https://www.arangodb.com/wp-content/uploads/2016/05/ArangoDB_logo_@1.png" alt="arango" height="30"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/redis/redis">
+          <img src="https://upload.wikimedia.org/wikipedia/fr/6/6b/Redis_Logo.svg" alt="redis" height="30"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/WebAssembly">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg" alt="web assembly" height="30"/>
+        </a>
+        &nbsp;
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++" height="30"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
 # Links
 
 My other medias !
