@@ -160,7 +160,7 @@ Go / React are my go-to for personal projects ❤️, I also use PostgreSQL for 
     </td>
     <td>
       <h3>Agora des Écrivains</h3>
-      <code>since 09/2019</code>
+      <code>since 09/2020</code>
       <p/>
       <p float="left">
         <a href="https://github.com/golang/go">
