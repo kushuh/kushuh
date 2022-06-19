@@ -220,7 +220,7 @@ Go / React are my go-to for personal projects ❤️, I also use PostgreSQL for 
 My other medias !
 
 <p align="middle">
-  <a href="https://gitlab.com/Kushuh">
+  <a href="https://gitlab.com/kushuh">
     <img src="https://about.gitlab.com/images/press/logo/svg/gitlab-logo-200.svg" alt="gitlab" height="100"/>
   </a>
 </p>
