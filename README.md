@@ -204,7 +204,7 @@ Go / React are my go-to for personal projects ❤️, I also use PostgreSQL for 
     </td>
     <td>
       <h3>Go Tools</h3>
-      <code>since 11/2019</code>
+      <code>A personal collection of public go packages for show off</code>
       <p/>
       <p float="left">
         <a href="https://github.com/golang/go">
