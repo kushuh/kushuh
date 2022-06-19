@@ -155,7 +155,7 @@ Go / React are my go-to for personal projects ❤️, I also use PostgreSQL for 
   <tr>
     <td>
       <a href="https://www.agoradesecrivains.fr/">
-        <img src="./agora%20logo%20text%20circle.png?raw=true" alt="explolab" height="100"/>
+        <img src="./agora%20logo%20text%20circle.png?raw=true" alt="agora" height="100"/>
       </a>
     </td>
     <td>
@@ -192,6 +192,24 @@ Go / React are my go-to for personal projects ❤️, I also use PostgreSQL for 
         </a>
         &nbsp;
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++" height="30"/>
+      </p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <a href="https://gitlab.com/a-novel/go-tools">
+        <img src="https://gitlab.com/uploads/-/system/group/avatar/54563602/PinClipart.com_shipping-container-clip-art_3317140-min.png" alt="go tools" height="100"/>
+      </a>
+    </td>
+    <td>
+      <h3>Go Tools</h3>
+      <code>since 11/2019</code>
+      <p/>
+      <p float="left">
+        <a href="https://github.com/golang/go">
+          <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" alt="golang" height="30"/>
+        </a>
       </p>
     </td>
   </tr>
