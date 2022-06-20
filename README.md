@@ -238,11 +238,3 @@ My other medias !
     <img src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" alt="stackoverflow" height="50"/>
   </a>
 </p>
-
-<p/>
-
-<p align="middle">
-  <a href="https://myanimelist.net/profile/Kushuh">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/MyAnimeList.png" alt="myanimelist" height="30"/>
-  </a>
-</p>
